@@ -10,6 +10,6 @@ ProspersSideHustle@gmail.com
 
 Jon Nally: 407-885-1660
 
-<a href="https://www.facebook.com/prosperssidehustle">https://www.facebook.com/prosperssidehustle</a>
+<a href="https://www.facebook.com/prosperssidehustle" target="_blank">https://www.facebook.com/prosperssidehustle</a>
 
-[https://www.youtube.com/@prosperssidehustle9843](https://www.youtube.com/@prosperssidehustle9843)
+<a href="https://www.youtube.com/@prosperssidehustle9843" target="_blank">https://www.youtube.com/@prosperssidehustle9843</a>
