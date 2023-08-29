@@ -8,7 +8,7 @@
 #                                                 /____/
 #
 # Title of your website
-title: "Prosper's Side Hustle"
+title: 'Prosper’s Side Hustle'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
 slogan: 'Music to help the good times roll!'
@@ -17,7 +17,7 @@ slogan: 'Music to help the good times roll!'
 description: 'ProspersSideHustle brings good music and good times to your events and venues.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: "<p>Created with &hearts; by Jon's Brother based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>""
+credits: '<p>Created with &hearts; by Jon’s Brother based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>"'
 
 # Main author of the website
 # See > authors.yml
