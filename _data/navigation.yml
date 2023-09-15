@@ -2,28 +2,13 @@
   url: "/"
   side: left
 
-- title: About Us
-  url: "/About Us/"
+- title: "About Us"
+  url: "/info/"
   side: left
 
-- title: "Bios"
-  url: "/bios/"
+- title: "The Band"
+  url: "/the-band/"
   side: left
-  dropdown:
-  - title: "Al"
-    url: "/bios/al/"
-  - title: "Brian"
-    url: "/bios/brian/"
-  - title: "Christine"
-    url: "/bios/christine"
-  - title: "James"
-    url: "/bios/james/"
-  - title: "Jon"
-    url: "/bios/jon/"
-  - title: "Ken"
-    url: "/bios/ken/"
-  - title: "Will"
-    url: "/bios/will/"
 
 - title: Blog
   url: "/blog/"
@@ -31,10 +16,6 @@
   dropdown:
   - title: "Blog Archive"
     url: "/blog/archive/"
-
-- title: "Search"
-  url: "/search/"
-  side: right
 
 - title: "Contact"
   url: "/contact/"
