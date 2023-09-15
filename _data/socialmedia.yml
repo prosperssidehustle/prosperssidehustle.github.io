@@ -1,12 +1,12 @@
-# - name: YouTube
-#   url: http://www.youtube.com/PhlowMedia
-#   class: icon-youtube
-#   title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
+- name: YouTube
+  url: http://www.youtube.com/@prosperssidehustle9843
+  class: icon-youtube
+  title: "Prosper's Side Hustle's YouTube Channel"
 
 - name: Facebook
-  url: http://www.facebook.com/
+  url: http://www.facebook.com/prosperssidehustle
   class: icon-facebook
-  title: ""
+  title: "ProspersSideHustle's Facebook Page"
 
 # - name: Soundcloud
 #   url: http://soundcloud.com/
