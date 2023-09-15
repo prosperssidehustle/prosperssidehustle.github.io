@@ -8,20 +8,20 @@ layout: frontpage
 header:
   image_fullwidth: psh/the-band-banner-3.png
 widget1:
-  title: "Widget 1 Title"
-  url: 'http://phlow.github.io/feeling-responsive/blog/'
+  title: "We Put A Lot of our Stuff on Facebook"
+  url: 'https://www.facebook.com/prosperssidehustle'
   image: widget-1-302x182.jpg
   text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
 widget2:
   title: "Windsong Pavilion, May 2023"
-  url: '/'
+  url: 'https://www.youtube.com/watch?v=YrUHJj4IWqs'
   text: 'Prosper Side Hustle @ Windsong Pavilion 12 May 2023'
   video: '<a href="#" data-reveal-id="videoModal"><img src="images/psh/frontpage-video-thumb.png" width="302" height="182" alt=""/></a>'
 widget3:
-  title: "Widget 3 Title"
-  url: 'https://github.com/Phlow/feeling-responsive'
+  title: "Here is our YouTube Channel"
+  url: 'https://www.youtube.com/@prosperssidehustle9843'
   image: widget-github-303x182.jpg
-  text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. The code is well-documented and explains you how it works.'
+  text: '<em>Prosper's Side Hustle</em> has a YouTube Channel and we put a few of our performances and other videos up there.'
 #
 # Use the call for action to show a button on the frontpage
 #
