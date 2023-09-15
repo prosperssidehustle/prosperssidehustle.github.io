@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: psh/the-band-banner-3.jpeg
+  image_fullwidth: psh/the-band-banner-3.png
 widget1:
   title: "Widget 1 Title"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
