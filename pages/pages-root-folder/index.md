@@ -14,9 +14,9 @@ widget1:
   text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
 widget2:
   title: "Windsong Pavilion, May 2023"
-  url: 'http://phlow.github.io/feeling-responsive/info/'
+  url: '/'
   text: 'Prosper Side Hustle @ Windsong Pavilion 12 May 2023'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+  video: '<a href="#" data-reveal-id="videoModal"><img src="/images/psh/frontpage-video-thumb.png" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Widget 3 Title"
   url: 'https://github.com/Phlow/feeling-responsive'
