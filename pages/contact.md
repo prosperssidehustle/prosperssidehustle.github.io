@@ -1,7 +1,7 @@
 ---
 layout: frontpage
 header:
-  image_fullwidth: psh/banner-4.png
+  image_fullwidth: psh/banner-5.png
 title               : "Contact"
 meta_title          : "Contact Us"
 subheadline         : "Contact Us"
