@@ -37,6 +37,7 @@ callforaction:
   text: CLICK HERE to get in touch! Check out all of our social media or just phone us!
   style: alert
 permalink: /index.html
+skip_boilerplate: true
 #
 # This is a nasty hack to make the navigation highlight
 # this page as active in the topbar navigation

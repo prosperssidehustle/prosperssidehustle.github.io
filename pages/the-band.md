@@ -7,6 +7,7 @@ meta_title          : "The Band"
 subheadline         : "Meet The Band"
 teaser              : "Here are the people that make the magic happen."
 permalink           : "/the-band/"
+skip_boilerplate    : true
 ---
 
 Al (Lead Guitar, Vocals) originally hails from Sicily Italy, and has lived all over the globe eventually landing in Prosper in 2019. Al’s musical influences include Jimi Hendrix, Stevie Ray Vaughan, Eric Clapton, Eagles & Steely Dan.
