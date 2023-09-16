@@ -13,9 +13,9 @@ widget1:
   image: psh/fb-thumb.png
   text: 'Here is the PSH FB Page.'
 widget2:
-  title: "Windsong Pavilion, May 2023"
+  title: "Windsong Commons, May 2023"
   url: ''
-  text: 'Prosper Side Hustle @ Windsong Pavilion 12 May 2023'
+  text: 'Prosper Side Hustle @ Windsong Commons 12 May 2023'
   video: '<a href="#" data-reveal-id="videoModal"><img src="images/psh/frontpage-video-thumb.png" width="302" height="182" alt=""/></a>'
 widget3:
   title: "YouTube"
