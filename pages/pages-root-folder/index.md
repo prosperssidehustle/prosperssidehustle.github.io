@@ -34,7 +34,7 @@ widget3:
 #
 callforaction:
   url: /contact/
-  text: Get in touch with the band! Check out all of our social media or just phone us!
+  text: CLICK HERE to get in touch! Check out all of our social media or just phone us!
   style: alert
 permalink: /index.html
 #
@@ -51,7 +51,7 @@ homepage: true
   <a class="close-reveal-modal">&#215;</a>
 </div>
 
-<div style="width: 75%;">
+<div style="width: 75%; margin: 3em;">
 <p>Prosper’s Side Hustle is a cover band based in Prosper, Texas! We all love good music and are doing this for the fun of it! Most have been in bands in the past, and are continuing a life long hobby.</p>
 
 <p>We chose our music based on our waxing nostalgia… mainly focusing on a wide range of genres from the 1960s to the 2000s, and occasionally something else! Our catalog ranges from Creedence to Petty, from Fleetwood to Matthews, from Crow to the Crowes!</p>

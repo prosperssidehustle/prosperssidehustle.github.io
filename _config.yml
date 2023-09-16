@@ -42,7 +42,8 @@ urlimg: 'https://prosperssidehustle.github.io/prosperssidehustle/images/'
 
 
 # Logo size is 600x80 pixels
-logo: "logo.png"
+# logo: "logo.png"
+logo: 
 
 # Plugins
 plugins:
