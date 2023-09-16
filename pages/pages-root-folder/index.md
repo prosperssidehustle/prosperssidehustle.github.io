@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: psh/the-band-banner-3.png
+  image_fullwidth: psh/banner-4.png
 widget1:
   title: "Facebook"
   url: 'https://www.facebook.com/prosperssidehustle'
