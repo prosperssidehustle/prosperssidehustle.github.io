@@ -7,6 +7,7 @@ meta_title          : "Contact Us"
 subheadline         : "Contact Us"
 teaser              : "Get in touch with us!"
 permalink           : "/contact/"
+skip_boilerplate    : true
 ---
 ProspersSideHustle@gmail.com
 
