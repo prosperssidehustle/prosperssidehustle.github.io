@@ -2,6 +2,10 @@
   url: "/"
   side: left
 
+- title: "Music"
+  url: "/music/"
+  side: left
+
 - title: "The Band"
   url: "/the-band/"
   side: left
