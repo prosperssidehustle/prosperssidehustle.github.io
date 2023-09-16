@@ -2,20 +2,16 @@
   url: "/"
   side: left
 
-- title: "About Us"
-  url: "/info/"
-  side: left
-
 - title: "The Band"
   url: "/the-band/"
   side: left
 
-- title: Blog
-  url: "/blog/"
-  side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
+# - title: Blog
+#   url: "/blog/"
+#   side: left
+#   dropdown:
+#   - title: "Blog Archive"
+#     url: "/blog/archive/"
 
 - title: "Contact"
   url: "/contact/"
