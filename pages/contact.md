@@ -1,5 +1,7 @@
 ---
-layout              : page
+layout: frontpage
+header:
+  image_fullwidth: psh/banner-4.png
 title               : "Contact"
 meta_title          : "Contact Us"
 subheadline         : "Contact Us"

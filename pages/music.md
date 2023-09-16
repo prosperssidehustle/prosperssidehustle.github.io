@@ -1,5 +1,7 @@
 ---
-layout              : page
+layout: frontpage
+header:
+  image_fullwidth: psh/banner-4.png
 title               : "Music"
 meta_title          : "Music"
 subheadline         : "Links to some Music"

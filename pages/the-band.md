@@ -1,5 +1,7 @@
 ---
-layout              : page
+layout: frontpage
+header:
+  image_fullwidth: psh/banner-4.png
 title               : "The Band"
 meta_title          : "The Band"
 subheadline         : "Meet The Band"
