@@ -8,9 +8,7 @@ format: frontpage
 	{% include _head.html %}
 </head>
 <body id="top-of-page" class="{{ layout.format }}">
-	{% unless page.skip_boilerplate %}
 	{% include _navigation.html %}
-	{% endunless %}
 
 	{% include _masthead.html %}
 	{{ content }}
