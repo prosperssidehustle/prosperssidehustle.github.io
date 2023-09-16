@@ -10,7 +10,7 @@ header:
 widget1:
   title: "Facebook"
   url: 'https://www.facebook.com/prosperssidehustle'
-  image: widget-1-302x182.jpg
+  image: images/psh/fb-thumb.png
   text: 'Here is the PSH FB Page.'
 widget2:
   title: "Windsong Pavilion, May 2023"
@@ -20,7 +20,7 @@ widget2:
 widget3:
   title: "YouTube"
   url: 'https://www.youtube.com/@prosperssidehustle9843'
-  image: widget-github-303x182.jpg
+  image: images/psh/youtube-icon-logo-png-transparent.png
   text: 'Here is the PSH YouTube Channel.'
 #
 # Use the call for action to show a button on the frontpage
