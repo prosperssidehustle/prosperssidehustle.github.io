@@ -48,13 +48,15 @@ sitemap:
 
 @import "11_syntax-highlighting.scss";
 
-.band-member {
-  display: flex;
-  padding: 1em;
+.band-member-image {
+  float: left;
+  display: inline;
+  margin: 3em;
 }
 
 .band-member-bio {
   width: 66%;
-  padding: 3em;  
+  padding: 3em;
+  margin: 2em;
+  text-align: justify;
 }
-
