@@ -47,3 +47,14 @@ sitemap:
 {% endif %}
 
 @import "11_syntax-highlighting.scss";
+
+.band-member {
+  display: flex;
+  padding: 1em;
+}
+
+.band-member-bio {
+  width: 66%;
+  padding: 3em;  
+}
+
