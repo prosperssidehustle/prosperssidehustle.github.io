@@ -10,6 +10,7 @@ permalink           : "/the-band/"
 skip_boilerplate    : true
 ---
 
+<div class="clearfix">
 <div class="band-member">
 <div class="band-member-image">
 <img src="/images/psh/people/resized/al.jpg">
@@ -70,5 +71,6 @@ Ken (Congas, Auxiliary Percussion) moved to Prosper in 2007 when it was still a 
 </div>
 <div class="band-member-bio">
 Will - Frequent Guest (Lead Guitar) Originally from Houston, attended University of North Texas now lives in Allen. Influenced by a wide spectrum of musicians from Joe Satriani to John Scofield.  Currently working on a solo record.
+</div>
 </div>
 </div>

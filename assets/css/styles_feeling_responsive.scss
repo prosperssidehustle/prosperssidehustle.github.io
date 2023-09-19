@@ -60,3 +60,9 @@ sitemap:
   margin: 2em;
   text-align: justify;
 }
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
