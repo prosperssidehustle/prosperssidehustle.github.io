@@ -1,0 +1,54 @@
+.top-bar-section {
+  display: flex;  /* Ensures the bar is flexible and items can be spaced out */
+  justify-content: space-between; /* Distributes space between and around content */
+  align-items: center; /* Centers items vertically */
+  padding: 10px; /* Adds padding inside the navigation bar */
+}
+
+.top-bar-section ul {
+  list-style: none; /* Removes default list styling */
+  display: flex; /* Aligns list items in a row */
+  padding: 0; /* Removes default padding */
+  margin: 0; /* Removes default margin */
+}
+
+.top-bar-section li {
+  margin-right: 20px; /* Adds space between the menu items */
+}
+
+.top-bar-section li.divider {
+  height: 20px; /* Sets height for the divider */
+  width: 1px; /* Sets width for the divider */
+  background-color: #ccc; /* Sets a light grey color for the divider */
+  margin-right: 20px; /* Consistent spacing to the right of the divider */
+}
+
+.top-bar-section a {
+  text-decoration: none; /* Removes underline from links */
+  color: black; /* Sets the text color of the links */
+  padding: 10px; /* Adds padding to make the links easier to click */
+}
+
+.top-bar-section .active a {
+  color: red; /* Highlight the active page */
+}
+
+@media (max-width: 768px) {
+  .top-bar-section ul {
+      flex-direction: column; /* Stacks the navigation items vertically on small screens */
+  }
+
+  .top-bar-section li {
+      margin-right: 0; /* Removes horizontal margin on small screens */
+      margin-bottom: 10px; /* Adds space between items when stacked */
+  }
+}
+
+#navigation {
+  z-index: 1000;  /* Ensure navigation is above most other elements */
+  position: relative; /* Position must be set for z-index to take effect */
+}
+
+#masthead {
+  z-index: 1;  /* Lower z-index since it should be below the navigation */
+}

@@ -6,6 +6,10 @@
 // This is the default html and body font-size for the base rem value.
 $rem-base: 16px !default;
 
+@function convert-to-em($pixels, $base-font-size: 16) {
+  @return $pixels / $base-font-size * 1em;
+}
+
 // IMPORT ONCE
 // We use this to prevent styles from being loaded multiple times for components that rely on other components.
 $modules: (
@@ -58,15 +62,15 @@ $modules: (
     }
 
     @else if unit($value)=="em" {
-      @return calc($value / 1em);
+      @return calc(#{convert-to-em($value)});
     }
 
-    @else if unit($value)=="px" {
-      @return calc($value / 1px);
+    @else if unit($value) == "px" {
+      @return $value / 1px;
     }
-
-    @else if unit($value)=="pt" {
-      @return calc($value / 1pt);
+    
+    @else if unit($value) == "pt" {
+      @return $value / 1pt;
     }
   }
 
