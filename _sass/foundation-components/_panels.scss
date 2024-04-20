@@ -108,7 +108,7 @@ $callout-panel-link-color-hover: scale-color($callout-panel-link-color, $lightne
       h5,
       h6 {
         line-height: 1;
-        margin-bottom: calc(rem-calc(20) / 2);
+        margin-bottom: rem-calc(20) / 2;
 
         &.subheader {
           line-height: 1.4;

@@ -110,14 +110,18 @@ $modules: (
 
 // CONVERT TO REM
 @function convert-to-rem($value, $base-value: $rem-base) {
-  $value: calc(strip-unit($value) / strip-unit($base-value) * 1rem);
+  // Ensure values are unitless before calculation
+  $unitless-value: strip-unit($value);
+  $unitless-base: strip-unit($base-value);
 
-  @if ($value ==0rem) {
-    $value: 0;
-  }
+  // Calculate the REM value
+  $rem-value: $unitless-value / $unitless-base * 1rem;
 
-  // Turn 0rem into 0
-  @return $value;
+  // Check if the calculated REM value is zero, and if so, return 0 instead of 0rem
+  @if $rem-value == 0rem {
+    @return 0;
+  } 
+  @return $rem-value;
 }
 
 @function data($attr) {

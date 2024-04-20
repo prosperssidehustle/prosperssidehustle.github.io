@@ -542,7 +542,7 @@ $topbar-dropdown-arrows: true !default; //Set false to remove the \00bb >> text 
           font-size: rem-calc(14);
           position: relative;
           height: $topbar-input-height;
-          top: calc(($topbar-height - $topbar-input-height) / 2);
+          top: ($topbar-height - $topbar-input-height) / 2;
         }
 
         &.expanded {

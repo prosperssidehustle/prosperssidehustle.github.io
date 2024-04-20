@@ -85,7 +85,7 @@ $select-hover-bg-color: scale-color($select-bg-color, $lightness: -3%) !default;
 // We use this mixin to give us form styles for rows inside of forms
 @mixin form-row-base {
   .row {
-    margin: 0 calc((-1 * $form-spacing) / 2);
+    margin: 0 (-1 * $form-spacing / 2);
 
     .column,
     .columns {
@@ -192,7 +192,7 @@ $select-hover-bg-color: scale-color($select-bg-color, $lightness: -3%) !default;
 
   @else if $alignment ==inline {
     margin: 0 0 $form-spacing 0;
-    padding: calc($form-spacing / 2) + rem-calc($input-border-width) 0;
+    padding: ($form-spacing / 2 + rem-calc($input-border-width)) 0;
   }
 }
 
